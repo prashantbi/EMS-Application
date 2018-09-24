@@ -42,4 +42,4 @@ notifications {
         slackSend color: "warning", message: "Job: ${env.JOB_NAME} with buildnumber ${env.BUILD_NUMBER} was unable"
         }
 }     
-}
+
